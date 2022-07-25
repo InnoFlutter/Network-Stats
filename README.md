@@ -21,9 +21,7 @@ If no parameter is given, the default duration is 1 seconds.
 
 ## Example
 Small application that showcases how this plugin can be used:
-```
-
-
+```dart
 import 'package:flutter/material.dart';
 import 'package:network_status_p/network_status_p.dart';
   
