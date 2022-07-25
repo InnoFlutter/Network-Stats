@@ -67,3 +67,9 @@ class _HomePageState extends State<HomePage> {
 ```
 
 ## Screenshots
+Active Network             |  Network is inactive
+:-------------------------:|:-------------------------:
+![](screenshots/active.png)  |  ![](screenshots/inactive.png)
+
+## Links
+Link to the plugin in pub.dev: [https://pub.dev/packages/network_status_p](https://pub.dev/packages/network_status_p)

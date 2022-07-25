@@ -34,7 +34,9 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: const Text("Network app"),
       ),
-      body: NetChecker()
+      body: NetChecker(
+        netDuration: Duration(seconds: 2),
+      )
     );
   }
 }
