@@ -5,13 +5,13 @@ This is a simple Flutter plugin for detecting network status. It provides a stat
 ## Getting Started
 
 In order to use the package, you need to add dependency to your project:
-```
+```yaml
   dependencies:
     network_status_p: ^0.0.1
 ```
 
 In source code, include the following:
-```
+```dart
   import 'package:network_status_p/network_status_p.dart';
 ```
 
